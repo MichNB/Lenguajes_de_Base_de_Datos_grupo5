@@ -1,40 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf2e429c-72a3-42bd-89fe-db6318d33e39" name="Changes" comment="" />
+    <list default="true" id="b88d787a-a9a6-4daa-bae5-509bbd9be75d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2QXm9JKPoeZ5cD9n5hmcpOyGSOh" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="E:\xampp\php\php.exe" />
+  <component name="ProjectId" id="2SDmWN6BNalYIAqH2YyO5S6lcUG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nacho\Documents\IntelliJ\SC504\src\main\resources\static\CSS" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cf2e429c-72a3-42bd-89fe-db6318d33e39" name="Changes" comment="" />
-      <created>1685508156156</created>
+      <changelist id="b88d787a-a9a6-4daa-bae5-509bbd9be75d" name="Changes" comment="" />
+      <created>1688689557789</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1685508156156</updated>
-      <workItem from="1685508158046" duration="9000" />
+      <updated>1688689557789</updated>
+      <workItem from="1688689560273" duration="386000" />
     </task>
     <servers />
   </component>
